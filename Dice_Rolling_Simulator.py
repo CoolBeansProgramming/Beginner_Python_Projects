@@ -9,5 +9,4 @@ while loop:
     print("You rolled a", rand)
     ans = input("Would you like to roll again (y=yes, n=no)? ")
     if ans == 'n':
-        loop = False
         break
