@@ -1,7 +1,13 @@
 # Dice Rolling Simulator
 
+import random
 print("Welcome to Dice Rolling Simulator")
-print("Which type of die would you like to use?")
-print("The options are four, size, eight, and ten sided dice.")
-size = input("Enter the numeric value: ")
-print(size)
+
+loop = True
+while loop:
+    rand = random.randint(1,6)
+    print("You rolled a", rand)
+    ans = input("Would you like to roll again (y=yes, n=no)? ")
+    if ans == 'n':
+        loop = False
+        break
