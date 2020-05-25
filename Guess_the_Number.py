@@ -13,6 +13,8 @@ while number != rand:
         print("You guessed too low!")
     elif number > rand:
         print("You guessed too high!")
+    elif number == rand:
+        print("test")
     break
 
 print("You guessed correctly! My number was", rand)
