@@ -7,16 +7,16 @@ number = int(input("Please choose a number between 1 and 100: "))
 
 rand = random.randint(1, 100)
 
-while number != rand:
+loop = True
+while loop:
 
     if number < rand:
         print("You guessed too low!")
     elif number > rand:
         print("You guessed too high!")
     elif number == rand:
-        print("test")
+        print("You guessed correctly! My number was", rand)
     break
 
-print("You guessed correctly! My number was", rand)
 
 
