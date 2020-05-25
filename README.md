@@ -8,4 +8,6 @@ Concepts explored: random number generator, integers, print statement, while loo
 
 Program 2: Guess the Number 
 
+Randomly generate a number and ask the user to guess it. 
+
 Concepts explored: random function, input/output, while loops, if/else statemetns 
