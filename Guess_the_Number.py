@@ -11,12 +11,12 @@ loop = True
 while loop:
 
     if number < rand:
-        print("You guessed too low!")
+        number = int(input("You guessed too low! Try again. "))
     elif number > rand:
-        print("You guessed too high!")
+        number = int(input("You guessed too high! Try again. "))
     elif number == rand:
         print("You guessed correctly! My number was", rand)
-    break
+        break
 
 
 
