@@ -1,6 +1,6 @@
 # Beginner Python Programs
 
-Programs concepts are taken from [Five mini programming porjects for the Python beginner](https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/)
+Programs concepts are taken from [Five mini programming projects for the Python beginner](https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/)
 
 
 Program 1: Dice Rolling Simulator 
