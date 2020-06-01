@@ -14,9 +14,17 @@ Program 2: Guess the Number
 
 Randomly generate a number and ask the user to guess it. 
 
-Concepts explored: random function, input/output, while loops, if/else statemetns 
+Concepts explored: random function, input/output, while loops, if/elif statemetns 
 
 
 Program 3: Mad Libs Generator
 
 Concepts explored: strings, concatenation 
+
+Program 4: Text Based Adventure Game 
+
+Concepts explored: strings, if/elif statement, lists
+
+Program 5: Hangman 
+
+Concepts explored: Boolean, strings 
