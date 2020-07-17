@@ -28,3 +28,7 @@ Concepts explored: strings, if/elif statement, lists
 Program 5: Hangman 
 
 Concepts explored: Boolean, strings 
+
+Program 6: Adventure Game
+
+Choose your own adventure game 
