@@ -32,3 +32,7 @@ Concepts explored: Boolean, strings
 Program 6: Adventure Game
 
 Choose your own adventure game 
+
+Program 7: Hangman with Pygrame 
+
+Following along with online tutorial of Hangman using Python
